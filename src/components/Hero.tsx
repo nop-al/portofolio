@@ -1,4 +1,4 @@
-import heroImg from '../assets/hero.png'
+
 import { useLanguage } from '../context/useLanguage'
 import { translations } from '../data/translations'
 
