@@ -1,59 +1,59 @@
 [
   {
     "title": {
-      "id": "Sistem Informasi Rekam Medis & Antrean Klinik",
-      "en": "Clinical Medical Records & Outpatient Queue System"
+      "id": "Sistem recruitment berbasis website",
+      "en": "Recruitment System web based"
     },
     "description": {
-      "id": "Aplikasi tata kelola antrean pasien dan riwayat medis poliklinik berbasis web. Dibangun untuk menyederhanakan input periksa dokter serta monitoring stok resep obat harian.",
-      "en": "A web-based queue and outpatient medical records platform. Designed to streamline doctor consultations and daily pharmacy prescription tracking."
+      "id": "Website recruitment system berbasis websis yang dapat memudahkan user dalam melamar pekerjaan dan memudahkan perusahaan dalam mencari karyawan yang sesuai dengan kebutuhan perusahaan.",
+      "en": "Recruitment system web based that can facilitate users in applying for jobs and make it easier for companies to find employees who match the company's needs."
     },
     "statusLabel": {
       "id": "Sistem Internal / Klien",
       "en": "Internal System / Client"
     },
-    "tech": ["React", "TypeScript", "Laravel", "MySQL"],
+    "tech": ["React","Laravel", "MySQL"],
     "image": "img/profile.png",
     "demo": null,
-    "repo": "https://github.com/nauval",
+    "repo": "https://github.com/nop-al",
     "featured": true
   },
   {
     "title": {
-      "id": "Dashboard Manajemen Gudang & Logistik",
-      "en": "Warehouse & Logistics Inventory Dashboard"
+      "id": "Sistem pemesanan lapangan berbasis website",
+      "en": "Field Reservation System web based"
     },
     "description": {
-      "id": "Platform pencatatan mutasi barang multi-cabang, rekapitulasi surat jalan masuk-keluar, dan peringatan stok minimum barang secara berkala.",
-      "en": "Multi-branch stock transfer platform with inbound-outbound consignment logging and automated minimum inventory alerts."
+      "id": "Pemesanan lapangan berbasis website yang dapat memudahkan user dalam memesan lapangan dan memudahkan pengelola dalam mengelola lapangan.",
+      "en": "Field reservation system web based that can facilitate users in booking fields and make it easier for managers to manage fields."
     },
     "statusLabel": {
-      "id": "Operasional Internal",
-      "en": "Internal Operations"
+      "id": "Sistem Internal / Klien",
+      "en": "Internal System / Client"
     },
-    "tech": ["React", "TypeScript", "Tailwind CSS", "MySQL"],
+    "tech": ["React", "Laravel", "MySQL"],
     "image": "img/profile.png",
     "demo": null,
-    "repo": "https://github.com/nauval",
+    "repo": "https://github.com/nop-al",
     "featured": false
   },
   {
     "title": {
-      "id": "Aplikasi Presensi Lapangan Berbasis Lokasi",
-      "en": "Location-Based Field Attendance Mobile App"
+      "id": "Sistem tabungan bersama berbasis website",
+      "en": "Tabungan Bersama web based"
     },
     "description": {
-      "id": "Aplikasi mobile pendataan kehadiran teknisi operasional dengan validasi radius GPS kantor dan pencatatan riwayat penugasan lapangan.",
-      "en": "Mobile application for operational field technician attendance with office GPS geofencing validation and assignment tracking."
+      "id": "Ssitem tabungan bersama, untuk teman, kerabat, hingga pasangan untuk memudahkan dalam menabung bersama, dan transparasi dalam tabungan",
+      "en": "Tabungan Bersama is a web based system for saving money together with friends, relatives, or even partners.  "
     },
     "statusLabel": {
-      "id": "Mobile Android",
-      "en": "Mobile Android"
+      "id": "Website Internal",
+      "en": "Internal Website"
     },
-    "tech": ["React Native", "TypeScript", "Laravel API", "MySQL"],
+    "tech": ["React", "Laravel", "MySQL"],
     "image": "img/profile.png",
     "demo": null,
-    "repo": "https://github.com/nauval",
+    "repo": "https://github.com/nop-al",
     "featured": false
   },
   {
@@ -71,8 +71,8 @@
     },
     "tech": ["React", "TypeScript", "Vite", "CSS"],
     "image": "img/profile.png",
-    "demo": "https://github.com/nauval/portofolio",
-    "repo": "https://github.com/nauval/portofolio",
+    "demo": "https://github.com/nop-al",
+    "repo": "https://github.com/nop-al",
     "featured": false
   }
 ]
