@@ -93,8 +93,8 @@ export const translations = {
     submitBtn: { id: 'Kirim Pesan', en: 'Send Message' },
     feedbackTitle: { id: 'Terima Kasih, Pesan Terkirim', en: 'Thank You, Message Sent' },
     feedbackDesc: {
-      id: 'Formulir simulasi berhasil dikirim. Saya akan menghubungi kembali melalui email Anda.',
-      en: 'The demonstration form submitted successfully. I will reach back out to your email.',
+      id: 'Pesan anda berhasil dikirim. Saya akan menghubungi kembali melalui email Anda. jika dalam 2x24 jam pesan anda tidak terjawab, silahkan whatsapp di nomor tersebut',
+      en: 'Your message has been sent successfully. I will contact you back via email. if within 2x24 hours your message is not answered, please whatsapp at the number provided',
     },
   },
   footer: {

@@ -12,14 +12,30 @@ export default function Contact() {
     message: '',
   })
 
-  const handleSubmit = (e: FormEvent) => {
-    e.preventDefault()
-    setSubmitted(true)
-    setTimeout(() => {
-      setSubmitted(false)
+const handleSubmit = async (e: FormEvent) => {
+  e.preventDefault()
+  
+  try {
+    const response = await fetch("https://formspree.io/f/xvkawklq", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Accept": "application/json"
+      },
+      body: JSON.stringify(formData)
+    })
+
+    if (response.ok) {
+      setSubmitted(true)
       setFormData({ name: '', email: '', subject: '', message: '' })
-    }, 6000)
+    } else {
+      alert("Gagal mengirim pesan. Silakan hubungi langsung lewat WhatsApp atau Email.")
+    }
+  } catch (error) {
+    console.error(error)
+    alert("Terjadi kendala koneksi.")
   }
+}
 
   return (
     <section id="contact" className="section contact-section" aria-labelledby="contact-heading">
@@ -41,19 +57,19 @@ export default function Contact() {
             <li>
               <a href="mailto:nauval.amarullah@example.com" className="channel-link">
                 <span className="channel-type">Email:</span>
-                <span className="channel-value">nauval.amarullah@example.com</span>
+                <span className="channel-value">nauvalamarullah1414@gmail.com</span>
               </a>
             </li>
             <li>
               <a href="https://wa.me/6281234567890" target="_blank" rel="noreferrer" className="channel-link">
                 <span className="channel-type">WhatsApp:</span>
-                <span className="channel-value">+62 812-3456-7890</span>
+                <span className="channel-value">+62 877-8686-2066</span>
               </a>
             </li>
             <li>
               <a href="https://github.com/nauval" target="_blank" rel="noreferrer" className="channel-link">
                 <span className="channel-type">GitHub:</span>
-                <span className="channel-value">github.com/nauval</span>
+                <span className="channel-value">github.com/nop-al</span>
               </a>
             </li>
           </ul>

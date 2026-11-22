@@ -5,5 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   plugins: [react()],
   // base: '/portofolio', // pakai '/' kalau nama repo-nya username.github.io
-  base: '/',
+  base: '/portofolio',
 })  
