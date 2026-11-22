@@ -1,0 +1,58 @@
+[
+  {
+    "title": {
+      "id": "Pengembangan Web Frontend dengan React",
+      "en": "Modern Frontend Web Development with React"
+    },
+    "issuer": "Dicoding Indonesia",
+    "year": 2024,
+    "description": {
+      "id": "Kurikulum komprehensif pengembangan antarmuka web modern berbasis komponen React, pengelolaan data global, dan konsumsi REST API asynchronous.",
+      "en": "Comprehensive curriculum covering modern React component architecture, global state management, and asynchronous REST API integration."
+    },
+    "kredensial": "https://www.dicoding.com/certificates/",
+    "url": "https://www.dicoding.com"
+  },
+  {
+    "title": {
+      "id": "Sertifikasi Kompetensi Junior Web Developer",
+      "en": "National Certified Junior Web Developer"
+    },
+    "issuer": "Badan Nasional Sertifikasi Profesi (BNSP)",
+    "year": 2023,
+    "description": {
+      "id": "Standar kompetensi kerja nasional mencakup implementasi algoritma pemrograman terstruktur, manipulasi basis data relasional, dan praktik keamanan dasar web.",
+      "en": "National work competency standard covering structured programming algorithms, relational database operations, and web security best practices."
+    },
+    "kredensial": "https://bnsp.go.id",
+    "url": "https://bnsp.go.id"
+  },
+  {
+    "title": {
+      "id": "Backend Web Development dengan Laravel",
+      "en": "Backend Web Development with Laravel & Databases"
+    },
+    "issuer": "Coursera",
+    "year": 2023,
+    "description": {
+      "id": "Perancangan RESTful API, validasi request data, middleware otentikasi token, serta integrasi query relasional Eloquent ORM dengan MySQL.",
+      "en": "RESTful API architecture, request data validation, token authentication middleware, and Eloquent ORM relational database queries in MySQL."
+    },
+    "kredensial": "https://www.coursera.org",
+    "url": "https://www.coursera.org"
+  },
+  {
+    "title": {
+      "id": "Perancangan Basis Data Relasional & SQL",
+      "en": "Relational Database Design & SQL Specialist"
+    },
+    "issuer": "Oracle Academy",
+    "year": 2022,
+    "description": {
+      "id": "Pemodelan data entitas-relasi (ERD), normalisasi tabel hingga bentuk 3NF, serta penulisan query SQL teroptimasi untuk performa sistem.",
+      "en": "Entity-relationship data modeling (ERD), relational table normalization up to 3NF, and optimized SQL query authoring for system performance."
+    },
+    "kredensial": "https://academy.oracle.com",
+    "url": "https://academy.oracle.com"
+  }
+]

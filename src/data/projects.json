@@ -1,0 +1,78 @@
+[
+  {
+    "title": {
+      "id": "Sistem Informasi Rekam Medis & Antrean Klinik",
+      "en": "Clinical Medical Records & Outpatient Queue System"
+    },
+    "description": {
+      "id": "Aplikasi tata kelola antrean pasien dan riwayat medis poliklinik berbasis web. Dibangun untuk menyederhanakan input periksa dokter serta monitoring stok resep obat harian.",
+      "en": "A web-based queue and outpatient medical records platform. Designed to streamline doctor consultations and daily pharmacy prescription tracking."
+    },
+    "statusLabel": {
+      "id": "Sistem Internal / Klien",
+      "en": "Internal System / Client"
+    },
+    "tech": ["React", "TypeScript", "Laravel", "MySQL"],
+    "image": "img/profile.png",
+    "demo": null,
+    "repo": "https://github.com/nauval",
+    "featured": true
+  },
+  {
+    "title": {
+      "id": "Dashboard Manajemen Gudang & Logistik",
+      "en": "Warehouse & Logistics Inventory Dashboard"
+    },
+    "description": {
+      "id": "Platform pencatatan mutasi barang multi-cabang, rekapitulasi surat jalan masuk-keluar, dan peringatan stok minimum barang secara berkala.",
+      "en": "Multi-branch stock transfer platform with inbound-outbound consignment logging and automated minimum inventory alerts."
+    },
+    "statusLabel": {
+      "id": "Operasional Internal",
+      "en": "Internal Operations"
+    },
+    "tech": ["React", "TypeScript", "Tailwind CSS", "MySQL"],
+    "image": "img/profile.png",
+    "demo": null,
+    "repo": "https://github.com/nauval",
+    "featured": false
+  },
+  {
+    "title": {
+      "id": "Aplikasi Presensi Lapangan Berbasis Lokasi",
+      "en": "Location-Based Field Attendance Mobile App"
+    },
+    "description": {
+      "id": "Aplikasi mobile pendataan kehadiran teknisi operasional dengan validasi radius GPS kantor dan pencatatan riwayat penugasan lapangan.",
+      "en": "Mobile application for operational field technician attendance with office GPS geofencing validation and assignment tracking."
+    },
+    "statusLabel": {
+      "id": "Mobile Android",
+      "en": "Mobile Android"
+    },
+    "tech": ["React Native", "TypeScript", "Laravel API", "MySQL"],
+    "image": "img/profile.png",
+    "demo": null,
+    "repo": "https://github.com/nauval",
+    "featured": false
+  },
+  {
+    "title": {
+      "id": "Website Portofolio Personal",
+      "en": "Personal Developer Portfolio Website"
+    },
+    "description": {
+      "id": "Situs portofolio pribadi yang dirancang cepat, mandiri tanpa dependensi berat, dan memenuhi standar aksesibilitas WCAG AA.",
+      "en": "Personal portfolio website engineered for high speed, zero heavy dependencies, and full WCAG AA accessibility compliance."
+    },
+    "statusLabel": {
+      "id": "Open Source",
+      "en": "Open Source"
+    },
+    "tech": ["React", "TypeScript", "Vite", "CSS"],
+    "image": "img/profile.png",
+    "demo": "https://github.com/nauval/portofolio",
+    "repo": "https://github.com/nauval/portofolio",
+    "featured": false
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "version": 1,
+  "skills": {
+    "antislop": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "skillPath": "skills/antislop/SKILL.md",
+      "computedHash": "c3654a14688e45b1b40ec4c98217de7b2db407d3b0b2b09a53a606c3e87629df"
+    },
+    "antislop-code": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "skillPath": "skills/antislop-code/SKILL.md",
+      "computedHash": "9ee5e3ce8961dbfab7b6f0afc9dcad3b15f8d253524932609575e64b3a66e3b0"
+    },
+    "antislop-copywriting": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "skillPath": "skills/antislop-copywriting/SKILL.md",
+      "computedHash": "472967cc59444e501a0f8cb650fa9bb8407fe154415a9211097c20bf74655e4a"
+    },
+    "antislop-human": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "skillPath": "skills/antislop-human/SKILL.md",
+      "computedHash": "d9a8d168fcb47ac2105a7a751819e026b163642cb1fd87d18ce701c838b8c03b"
+    },
+    "antislop-ui": {
+      "source": "miqdadbadjuber/anti-slop",
+      "sourceType": "github",
+      "skillPath": "skills/antislop-ui/SKILL.md",
+      "computedHash": "4ea8946b7b9937c0996554f0e7becc551ac512baf086666adc795a17241121da"
+    }
+  }
+}

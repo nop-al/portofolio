@@ -1,0 +1,62 @@
+[
+  {
+    "position": {
+      "id": "Full-Stack Web & Mobile Developer",
+      "en": "Full-Stack Web & Mobile Developer"
+    },
+    "company": "Freelance & Mitra Klien",
+    "period": {
+      "id": "2023 - Sekarang",
+      "en": "2023 - Present"
+    },
+    "type": {
+      "id": "Kontrak / Mandiri",
+      "en": "Contract / Independent"
+    },
+    "responsibilities": [
+      {
+        "id": "Merancang dan membangun aplikasi web sistem informasi klinik dan tata kelola pergudangan menggunakan React, Laravel, dan MySQL.",
+        "en": "Architecting and developing clinic medical records and warehouse management web systems using React, Laravel, and MySQL."
+      },
+      {
+        "id": "Mengembangkan aplikasi mobile presensi berbasis React Native dengan verifikasi lokasi GPS dan sinkronisasi REST API.",
+        "en": "Developing cross-platform mobile attendance apps in React Native with GPS geofencing verification and backend REST API synchronization."
+      },
+      {
+        "id": "Mengoptimalkan query basis data dan struktur relasi untuk memastikan respon aplikasi tetap cepat saat data bertumbuh.",
+        "en": "Optimizing relational database queries and indices to maintain fast query response times under growing data loads."
+      }
+    ],
+    "tech": ["React", "TypeScript", "React Native", "Laravel", "MySQL", "Tailwind CSS"]
+  },
+  {
+    "position": {
+      "id": "Junior Web Developer",
+      "en": "Junior Web Developer"
+    },
+    "company": "PT Kreasi Digital Solusindo",
+    "period": {
+      "id": "2022 - 2023",
+      "en": "2022 - 2023"
+    },
+    "type": {
+      "id": "Penuh Waktu",
+      "en": "Full-Time"
+    },
+    "responsibilities": [
+      {
+        "id": "Mengonversi desain antarmuka menjadi kode antarmuka web yang responsif, modular, dan ramah aksesibilitas.",
+        "en": "Translating UI designs into responsive, modular, and accessible component code."
+      },
+      {
+        "id": "Melakukan integrasi REST API backend ke dalam komponen frontend serta menangani validasi formulir pengguna.",
+        "en": "Integrating backend REST APIs into frontend workflows while implementing resilient user form validation."
+      },
+      {
+        "id": "Mengelola pemeliharaan rutin dan perbaikan bug pada sistem aplikasi web klien.",
+        "en": "Handling regular maintenance, browser compatibility tests, and bug fixes across client web applications."
+      }
+    ],
+    "tech": ["React", "JavaScript", "PHP", "MySQL", "CSS", "Git"]
+  }
+]

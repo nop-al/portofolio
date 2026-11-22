@@ -1,0 +1,18 @@
+[
+  {
+    "degree": {
+      "id": "Sarjana Terapan Komputer (S.Tr.Kom)",
+      "en": "Bachelor of Applied Computer Science"
+    },
+    "institution": "Teknik Informatika / Sistem Informasi",
+    "period": "2020 - 2024",
+    "description": {
+      "id": "Fokus pada rekayasa perangkat lunak, arsitektur basis data relasional, pengujian sistem, dan keamanan aplikasi web.",
+      "en": "Focused on software engineering principles, relational database architectures, automated testing, and web security."
+    },
+    "focus": {
+      "id": "Rekayasa Perangkat Lunak & Sistem Basis Data",
+      "en": "Software Engineering & Database Systems"
+    }
+  }
+]
