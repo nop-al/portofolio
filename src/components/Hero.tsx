@@ -47,13 +47,13 @@ export default function Hero() {
             fetchPriority="high"
           />
         </div> */}
-        {translations.hero.availability && (
+        {/* {translations.hero.availability && (
           <div className="status-note" role="note" aria-label="Status ketersediaan">
             <span className="status-indicator" aria-hidden="true" />
             <span>{t(translations.hero.availability)}</span>
           </div>
         )}
-      </div>
+      </div> */}
     </section>
   )
 }
