@@ -38,7 +38,7 @@ export default function Hero() {
       </div>
 
       <div className="hero-visual">
-        <div className="photo-card">
+        {/* <div className="photo-card">
           <img
             src={heroImg}
             alt={t(translations.hero.profileAlt)}
@@ -46,7 +46,7 @@ export default function Hero() {
             height={475}
             fetchPriority="high"
           />
-        </div>
+        </div> */}
         {translations.hero.availability && (
           <div className="status-note" role="note" aria-label="Status ketersediaan">
             <span className="status-indicator" aria-hidden="true" />

@@ -20,10 +20,10 @@ export const translations = {
     viewProjects: { id: 'Lihat Projek', en: 'View Projects' },
     downloadCv: { id: 'Unduh CV', en: 'Download CV' },
     coreStackLabel: { id: 'Fokus Teknologi:', en: 'Core Stack:' },
-    availability: {
-      id: 'Tersedia untuk projek dan kolaborasi baru',
-      en: 'Available for new projects and collaborations',
-    },
+    // availability: {
+    //   id: 'Tersedia untuk projek dan kolaborasi baru',
+    //   en: 'Available for new projects and collaborations',
+    // },
     profileAlt: {
       id: 'Foto profil Nauval Amarullah',
       en: 'Profile photo of Nauval Amarullah',
